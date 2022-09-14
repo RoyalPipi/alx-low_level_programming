@@ -1,1 +1,1 @@
-this directory conyains scripts for th low level programming on if else while for alx
+this directory contains scripts for the low level programming on if, else, while, for alx software engineering program.
