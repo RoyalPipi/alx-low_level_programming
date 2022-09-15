@@ -4,7 +4,6 @@
 * description: use the _putchar function to print text
 * Return: 0 always
 */
-
 int main(void)
 {
 	char text[] = "_putchar";
@@ -16,7 +15,5 @@ int main(void)
 		i++;
 	}
 	_putchar('\n');
-
-
 	return (0);
 }
