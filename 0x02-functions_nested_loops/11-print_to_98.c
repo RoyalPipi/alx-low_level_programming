@@ -1,12 +1,12 @@
 #include "main.h"
+#include <stdio.h>
 /**
- * add - adds two integers and returns the result
- * @a: type int number 1
- * @b: type int number 2
- * Description: adds two numbers
- * Return: Always (0).
+ * print_to_98 - Print all natural numbers from n to 98
+ * @n: int type number
+ * Return: Always 0.
  */
-int add(int a, int b)
+int main(void)
 {
-	return (a + b);
+	print_to_98(98);
+	return (0);
 }
